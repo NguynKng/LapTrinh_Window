@@ -1,0 +1,48 @@
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.exe
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.deps.json
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.runtimeconfig.json
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.pdb
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.Form1.resources
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.csproj.GenerateResource.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.AssemblyInfoInputs.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.AssemblyInfo.cs
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\refint\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.pdb
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.genruntimeconfig.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan-3-master\bai_2\bai_2\obj\Debug\net9.0-windows\ref\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.exe
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.deps.json
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.runtimeconfig.json
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.pdb
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.Form1.resources
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.csproj.GenerateResource.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.AssemblyInfoInputs.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.AssemblyInfo.cs
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\refint\bai_2.dll
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.pdb
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.genruntimeconfig.cache
+C:\Users\NGUYENTU\Documents\Zalo Received Files\tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\ref\bai_2.dll
+C:\BTWD\Tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.exe
+C:\BTWD\Tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.deps.json
+C:\BTWD\Tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.runtimeconfig.json
+C:\BTWD\Tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.dll
+C:\BTWD\Tuan2\bai_2\bai_2\bin\Debug\net9.0-windows\bai_2.pdb
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.Form1.resources
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.csproj.GenerateResource.cache
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.AssemblyInfoInputs.cache
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.AssemblyInfo.cs
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.csproj.CoreCompileInputs.cache
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.dll
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\refint\bai_2.dll
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.pdb
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\bai_2.genruntimeconfig.cache
+C:\BTWD\Tuan2\bai_2\bai_2\obj\Debug\net9.0-windows\ref\bai_2.dll
