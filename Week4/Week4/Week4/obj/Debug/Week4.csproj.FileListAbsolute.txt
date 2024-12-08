@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\Week4\Week4\bin\Debug\Week4.exe.config
+C:\Users\ADMIN\source\repos\Week4\Week4\bin\Debug\Week4.exe
+C:\Users\ADMIN\source\repos\Week4\Week4\bin\Debug\Week4.pdb
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.exe
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.pdb
+C:\Users\ADMIN\source\repos\Week4\Week4\bin\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\source\repos\Week4\Week4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.csproj.ResolveComReference.cache
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.AboutBox1.resources
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.frmXemPhim.resources
+C:\Users\ADMIN\source\repos\Week4\Week4\obj\Debug\Week4.MDIParent1.resources
