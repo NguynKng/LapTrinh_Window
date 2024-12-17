@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\bin\Debug\Bai4.exe.config
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\bin\Debug\Bai4.exe
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\bin\Debug\Bai4.pdb
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.Form1.resources
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.exe
+C:\Users\ADMIN\source\repos\Week4\Bai4\Bai4\obj\Debug\Bai4.pdb

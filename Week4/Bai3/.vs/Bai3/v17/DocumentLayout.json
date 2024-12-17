@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3190B49B-DC87-456D-8E07-FF6A926DD295}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3190B49B-DC87-456D-8E07-FF6A926DD295}|Bai3\\Bai3.csproj|c:\\users\\admin\\source\\repos\\week4\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3190B49B-DC87-456D-8E07-FF6A926DD295}|Bai3\\Bai3.csproj|C:\\Users\\ADMIN\\source\\repos\\Week4\\Bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3190B49B-DC87-456D-8E07-FF6A926DD295}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,

@@ -188,5 +188,10 @@ namespace Bai2
             dataGridView2.Rows[addIndex].Cells["facultyTrackCol"].Value = khoa;
             dataGridView2.Rows[addIndex].Cells["timeCol"].Value = System.DateTime.Today;
         }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
