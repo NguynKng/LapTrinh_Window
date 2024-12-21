@@ -59,9 +59,9 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.MenuHighlight;
-            label1.Location = new Point(231, 34);
+            label1.Location = new Point(264, 45);
             label1.Name = "label1";
-            label1.Size = new Size(257, 45);
+            label1.Size = new Size(319, 54);
             label1.TabIndex = 0;
             label1.Text = "ĐỒ ĂN NHANH";
             // 
@@ -83,9 +83,11 @@
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
             groupBox1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            groupBox1.Location = new Point(88, 176);
+            groupBox1.Location = new Point(90, 103);
+            groupBox1.Margin = new Padding(3, 4, 3, 4);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(537, 247);
+            groupBox1.Padding = new Padding(3, 4, 3, 4);
+            groupBox1.Size = new Size(614, 312);
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "MENU";
@@ -94,9 +96,10 @@
             // button13
             // 
             button13.ForeColor = SystemColors.MenuHighlight;
-            button13.Location = new Point(420, 38);
+            button13.Location = new Point(480, 51);
+            button13.Margin = new Padding(3, 4, 3, 4);
             button13.Name = "button13";
-            button13.Size = new Size(75, 23);
+            button13.Size = new Size(86, 31);
             button13.TabIndex = 15;
             button13.Text = "coca";
             button13.UseVisualStyleBackColor = true;
@@ -104,9 +107,10 @@
             // button14
             // 
             button14.ForeColor = SystemColors.MenuHighlight;
-            button14.Location = new Point(420, 140);
+            button14.Location = new Point(480, 187);
+            button14.Margin = new Padding(3, 4, 3, 4);
             button14.Name = "button14";
-            button14.Size = new Size(75, 23);
+            button14.Size = new Size(86, 31);
             button14.TabIndex = 14;
             button14.Text = "cam";
             button14.UseVisualStyleBackColor = true;
@@ -114,9 +118,10 @@
             // button15
             // 
             button15.ForeColor = SystemColors.MenuHighlight;
-            button15.Location = new Point(420, 89);
+            button15.Location = new Point(480, 119);
+            button15.Margin = new Padding(3, 4, 3, 4);
             button15.Name = "button15";
-            button15.Size = new Size(75, 23);
+            button15.Size = new Size(86, 31);
             button15.TabIndex = 13;
             button15.Text = "lipton";
             button15.UseVisualStyleBackColor = true;
@@ -124,9 +129,10 @@
             // button9
             // 
             button9.ForeColor = Color.LimeGreen;
-            button9.Location = new Point(343, 190);
+            button9.Location = new Point(392, 253);
+            button9.Margin = new Padding(3, 4, 3, 4);
             button9.Name = "button9";
-            button9.Size = new Size(136, 23);
+            button9.Size = new Size(155, 31);
             button9.TabIndex = 11;
             button9.Text = "trà sữa";
             button9.UseVisualStyleBackColor = true;
@@ -134,9 +140,10 @@
             // button10
             // 
             button10.ForeColor = Color.Red;
-            button10.Location = new Point(325, 140);
+            button10.Location = new Point(371, 187);
+            button10.Margin = new Padding(3, 4, 3, 4);
             button10.Name = "button10";
-            button10.Size = new Size(75, 23);
+            button10.Size = new Size(86, 31);
             button10.TabIndex = 10;
             button10.Text = "caffe";
             button10.UseVisualStyleBackColor = true;
@@ -144,9 +151,10 @@
             // button11
             // 
             button11.ForeColor = Color.Red;
-            button11.Location = new Point(325, 89);
+            button11.Location = new Point(371, 119);
+            button11.Margin = new Padding(3, 4, 3, 4);
             button11.Name = "button11";
-            button11.Size = new Size(75, 23);
+            button11.Size = new Size(86, 31);
             button11.TabIndex = 9;
             button11.Text = "7 up";
             button11.UseVisualStyleBackColor = true;
@@ -154,9 +162,10 @@
             // button12
             // 
             button12.ForeColor = Color.Red;
-            button12.Location = new Point(325, 38);
+            button12.Location = new Point(371, 51);
+            button12.Margin = new Padding(3, 4, 3, 4);
             button12.Name = "button12";
-            button12.Size = new Size(75, 23);
+            button12.Size = new Size(86, 31);
             button12.TabIndex = 8;
             button12.Text = "pepsi";
             button12.UseVisualStyleBackColor = true;
@@ -164,9 +173,10 @@
             // button8
             // 
             button8.ForeColor = Color.FromArgb(192, 192, 0);
-            button8.Location = new Point(179, 190);
+            button8.Location = new Point(205, 253);
+            button8.Margin = new Padding(3, 4, 3, 4);
             button8.Name = "button8";
-            button8.Size = new Size(106, 23);
+            button8.Size = new Size(121, 31);
             button8.TabIndex = 7;
             button8.Text = "Cơm gà";
             button8.UseVisualStyleBackColor = true;
@@ -174,9 +184,10 @@
             // button7
             // 
             button7.ForeColor = Color.FromArgb(192, 192, 0);
-            button7.Location = new Point(179, 140);
+            button7.Location = new Point(205, 187);
+            button7.Margin = new Padding(3, 4, 3, 4);
             button7.Name = "button7";
-            button7.Size = new Size(106, 23);
+            button7.Size = new Size(121, 31);
             button7.TabIndex = 6;
             button7.Text = "Cá viên";
             button7.UseVisualStyleBackColor = true;
@@ -184,9 +195,10 @@
             // button6
             // 
             button6.ForeColor = Color.FromArgb(192, 192, 0);
-            button6.Location = new Point(179, 89);
+            button6.Location = new Point(205, 119);
+            button6.Margin = new Padding(3, 4, 3, 4);
             button6.Name = "button6";
-            button6.Size = new Size(106, 23);
+            button6.Size = new Size(121, 31);
             button6.TabIndex = 5;
             button6.Text = "Gà viên";
             button6.UseVisualStyleBackColor = true;
@@ -194,9 +206,10 @@
             // button5
             // 
             button5.ForeColor = Color.FromArgb(192, 192, 0);
-            button5.Location = new Point(179, 38);
+            button5.Location = new Point(205, 51);
+            button5.Margin = new Padding(3, 4, 3, 4);
             button5.Name = "button5";
-            button5.Size = new Size(106, 23);
+            button5.Size = new Size(121, 31);
             button5.TabIndex = 4;
             button5.Text = "Tôm viên";
             button5.UseVisualStyleBackColor = true;
@@ -204,9 +217,10 @@
             // button4
             // 
             button4.ForeColor = Color.FromArgb(255, 128, 0);
-            button4.Location = new Point(24, 190);
+            button4.Location = new Point(27, 253);
+            button4.Margin = new Padding(3, 4, 3, 4);
             button4.Name = "button4";
-            button4.Size = new Size(132, 23);
+            button4.Size = new Size(151, 31);
             button4.TabIndex = 3;
             button4.Text = "Bơ gơ phô mai cá";
             button4.UseVisualStyleBackColor = true;
@@ -214,9 +228,10 @@
             // button3
             // 
             button3.ForeColor = Color.FromArgb(255, 128, 0);
-            button3.Location = new Point(24, 140);
+            button3.Location = new Point(27, 187);
+            button3.Margin = new Padding(3, 4, 3, 4);
             button3.Name = "button3";
-            button3.Size = new Size(132, 23);
+            button3.Size = new Size(151, 31);
             button3.TabIndex = 2;
             button3.Text = "Bơ gơ phô mai tôm";
             button3.UseVisualStyleBackColor = true;
@@ -224,9 +239,10 @@
             // button2
             // 
             button2.ForeColor = Color.FromArgb(255, 128, 0);
-            button2.Location = new Point(24, 89);
+            button2.Location = new Point(27, 119);
+            button2.Margin = new Padding(3, 4, 3, 4);
             button2.Name = "button2";
-            button2.Size = new Size(132, 23);
+            button2.Size = new Size(151, 31);
             button2.TabIndex = 1;
             button2.Text = "Bơ gơ phô mai gà";
             button2.UseVisualStyleBackColor = true;
@@ -234,9 +250,10 @@
             // button1
             // 
             button1.ForeColor = Color.FromArgb(255, 128, 0);
-            button1.Location = new Point(24, 38);
+            button1.Location = new Point(27, 51);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(132, 23);
+            button1.Size = new Size(151, 31);
             button1.TabIndex = 0;
             button1.Text = "Bơ gơ phô mai bò";
             button1.UseVisualStyleBackColor = true;
@@ -245,17 +262,18 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(206, 448);
+            label2.Location = new Point(252, 452);
             label2.Name = "label2";
-            label2.Size = new Size(70, 21);
+            label2.Size = new Size(86, 28);
             label2.TabIndex = 2;
             label2.Text = "Tên bàn";
             // 
             // button16
             // 
-            button16.Location = new Point(88, 449);
+            button16.Location = new Point(117, 454);
+            button16.Margin = new Padding(3, 4, 3, 4);
             button16.Name = "button16";
-            button16.Size = new Size(75, 23);
+            button16.Size = new Size(86, 31);
             button16.TabIndex = 12;
             button16.Text = "Xóa";
             button16.UseVisualStyleBackColor = true;
@@ -263,9 +281,10 @@
             // 
             // button17
             // 
-            button17.Location = new Point(550, 449);
+            button17.Location = new Point(608, 454);
+            button17.Margin = new Padding(3, 4, 3, 4);
             button17.Name = "button17";
-            button17.Size = new Size(75, 23);
+            button17.Size = new Size(86, 31);
             button17.TabIndex = 13;
             button17.Text = "Order";
             button17.UseVisualStyleBackColor = true;
@@ -274,26 +293,30 @@
             // 
             dataGridView1.AllowUserToOrderColumns = true;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(88, 517);
+            dataGridView1.Location = new Point(117, 508);
+            dataGridView1.Margin = new Padding(3, 4, 3, 4);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(441, 224);
+            dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.Size = new Size(603, 181);
             dataGridView1.TabIndex = 14;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(314, 449);
+            comboBox1.Items.AddRange(new object[] { "Bàn 1", "Bàn 2", "Bàn 3", "Bàn 4" });
+            comboBox1.Location = new Point(349, 456);
+            comboBox1.Margin = new Padding(3, 4, 3, 4);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(174, 23);
+            comboBox1.Size = new Size(198, 28);
             comboBox1.TabIndex = 15;
             comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(739, 800);
+            ClientSize = new Size(845, 739);
             Controls.Add(comboBox1);
             Controls.Add(dataGridView1);
             Controls.Add(button17);
@@ -301,6 +324,7 @@
             Controls.Add(groupBox1);
             Controls.Add(label1);
             Controls.Add(button16);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             groupBox1.ResumeLayout(false);

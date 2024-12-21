@@ -38,6 +38,7 @@
             this.subtractBtn = new System.Windows.Forms.Button();
             this.multiplyBtn = new System.Windows.Forms.Button();
             this.divideBtn = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -135,11 +136,21 @@
             this.divideBtn.UseVisualStyleBackColor = true;
             this.divideBtn.Click += new System.EventHandler(this.divideBtn_Click);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(100, 22);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(44, 16);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "label4";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.divideBtn);
             this.Controls.Add(this.multiplyBtn);
             this.Controls.Add(this.subtractBtn);
@@ -169,6 +180,7 @@
         private System.Windows.Forms.Button subtractBtn;
         private System.Windows.Forms.Button multiplyBtn;
         private System.Windows.Forms.Button divideBtn;
+        private System.Windows.Forms.Label label4;
     }
 }
 

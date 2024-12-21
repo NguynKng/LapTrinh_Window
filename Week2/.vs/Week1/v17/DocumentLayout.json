@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Week2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\bai1\\bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\bai1\\bai1\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\bai1\\bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\bai1\\bai1\\week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\bai1\\bai1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|c:\\users\\admin\\source\\repos\\week2\\bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE94E1FE-2083-42AD-BA62-2CB4E00005ED}|Bai1\\Week1.csproj|solutionrelative:bai1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,39 +38,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:12:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:10:55.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Week1.csproj",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Week1.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Week1.csproj",
               "RelativeDocumentMoniker": "Bai1\\Week1.csproj",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Week1.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Week1.csproj",
               "RelativeToolTip": "Bai1\\Week1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T12:09:29.895Z"
+              "WhenOpened": "2024-11-22T12:09:29.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form4.cs",
               "RelativeDocumentMoniker": "Bai1\\Form4.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form4.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form4.cs",
               "RelativeToolTip": "Bai1\\Form4.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAMwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:04:40.965Z"
+              "WhenOpened": "2024-11-22T12:04:40.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form5.cs",
               "RelativeDocumentMoniker": "Bai1\\Form5.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form5.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form5.cs",
               "RelativeToolTip": "Bai1\\Form5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form5.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form5.Designer.cs",
               "RelativeDocumentMoniker": "Bai1\\Form5.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form5.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form5.Designer.cs",
               "RelativeToolTip": "Bai1\\Form5.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form5.cs",
               "RelativeDocumentMoniker": "Bai1\\Form5.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Bai1\\Bai1\\Form5.cs [Design]",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week2\\Bai1\\Form5.cs [Design]",
               "RelativeToolTip": "Bai1\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T11:54:39.02Z",

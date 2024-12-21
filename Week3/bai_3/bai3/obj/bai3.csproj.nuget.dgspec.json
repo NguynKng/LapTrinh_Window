@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BTWD\\Tuan2\\bai_3\\bai3\\bai3.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\Week3\\bai_3\\bai3\\bai3.csproj": {}
   },
   "projects": {
-    "C:\\BTWD\\Tuan2\\bai_3\\bai3\\bai3.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\Week3\\bai_3\\bai3\\bai3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BTWD\\Tuan2\\bai_3\\bai3\\bai3.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Week3\\bai_3\\bai3\\bai3.csproj",
         "projectName": "bai3",
-        "projectPath": "C:\\BTWD\\Tuan2\\bai_3\\bai3\\bai3.csproj",
-        "packagesPath": "C:\\Users\\NGUYENTU\\.nuget\\packages\\",
-        "outputPath": "C:\\BTWD\\Tuan2\\bai_3\\bai3\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Week3\\bai_3\\bai3\\bai3.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Week3\\bai_3\\bai3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NGUYENTU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

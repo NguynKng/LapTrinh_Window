@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8E63054E-9E88-4FCD-AB32-2EA9F2B1CB4B}|Bai4\\Bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E63054E-9E88-4FCD-AB32-2EA9F2B1CB4B}|Bai4\\Bai4.csproj|c:\\users\\admin\\source\\repos\\week4\\bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E63054E-9E88-4FCD-AB32-2EA9F2B1CB4B}|Bai4\\Bai4.csproj|C:\\Users\\ADMIN\\source\\repos\\Week4\\Bai4\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E63054E-9E88-4FCD-AB32-2EA9F2B1CB4B}|Bai4\\Bai4.csproj|solutionrelative:bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Bai4\\Form1.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week4\\Bai4\\Bai4\\Form1.cs",
               "RelativeToolTip": "Bai4\\Form1.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAEAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwEAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T02:14:52.28Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Week4\\Bai4\\Bai4\\Form1.cs [Design]",
               "RelativeToolTip": "Bai4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:01:55.821Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-17T02:01:55.821Z"
             }
           ]
         }

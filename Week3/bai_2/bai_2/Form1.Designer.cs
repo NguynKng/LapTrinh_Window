@@ -213,7 +213,7 @@
             Controls.Add(label1);
             Margin = new Padding(1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Form2";
             groupBox1.ResumeLayout(false);
             groupBox2.ResumeLayout(false);
             ResumeLayout(false);
