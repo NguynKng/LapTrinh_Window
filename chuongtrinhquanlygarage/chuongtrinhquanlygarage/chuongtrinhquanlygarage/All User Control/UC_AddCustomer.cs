@@ -223,6 +223,11 @@ namespace chuongtrinhquanlygarage.All_User_Control
                 {
                     DataGridViewRow selectedRow = dgvCustomer.SelectedRows[0];
 
+                    if (selectedRow.Cells["customerIDCol"].Value == null || string.IsNullOrEmpty(selectedRow.Cells["customerIDCol"].Value.ToString()))
+                    {
+                        MessageBox.Show("Dòng được chọn không có dữ liệu để xoá.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
                     string customerID = selectedRow.Cells["customerIDCol"].Value.ToString();
                     DialogResult result = MessageBox.Show(
                         "Bạn có muốn xoá khách hàng này ?",

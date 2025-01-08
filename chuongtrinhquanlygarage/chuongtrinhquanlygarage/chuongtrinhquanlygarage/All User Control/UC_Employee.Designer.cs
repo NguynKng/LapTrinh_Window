@@ -847,7 +847,7 @@
             this.delUserBtn.FillColor = System.Drawing.Color.White;
             this.delUserBtn.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.delUserBtn.ForeColor = System.Drawing.Color.Red;
-            this.delUserBtn.Location = new System.Drawing.Point(1026, 598);
+            this.delUserBtn.Location = new System.Drawing.Point(866, 606);
             this.delUserBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.delUserBtn.Name = "delUserBtn";
             this.delUserBtn.Size = new System.Drawing.Size(237, 66);

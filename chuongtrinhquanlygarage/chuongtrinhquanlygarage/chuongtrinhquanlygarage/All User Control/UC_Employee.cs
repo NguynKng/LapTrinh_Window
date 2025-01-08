@@ -313,6 +313,12 @@ namespace chuongtrinhquanlygarage.All_User_Control
                 {
                     DataGridViewRow selectedRow = dgvEmployee.SelectedRows[0];
 
+                    if (selectedRow.Cells["empIDCol"].Value == null || string.IsNullOrEmpty(selectedRow.Cells["empIDCol"].Value.ToString()))
+                    {
+                        MessageBox.Show("Dòng được chọn không có dữ liệu để xoá.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+
                     string employeeID = selectedRow.Cells["empIDCol"].Value.ToString();
                     DialogResult result = MessageBox.Show(
                         "Bạn có muốn xoá nhân viên này ?",
@@ -401,6 +407,11 @@ namespace chuongtrinhquanlygarage.All_User_Control
                 {
                     DataGridViewRow selectedRow = dgvUser.SelectedRows[0];
 
+                    if (selectedRow.Cells["userIDCol"].Value == null || string.IsNullOrEmpty(selectedRow.Cells["userIDCol"].Value.ToString()))
+                    {
+                        MessageBox.Show("Dòng được chọn không có dữ liệu để xoá.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
                     string userID = selectedRow.Cells["userIDCol"].Value.ToString();
 
                     DialogResult result = MessageBox.Show(

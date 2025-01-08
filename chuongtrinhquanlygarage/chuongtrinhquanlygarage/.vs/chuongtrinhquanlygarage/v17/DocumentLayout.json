@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|c:\\users\\admin\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +15,32 @@
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|c:\\users\\admin\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_editdetailorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\database\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\database\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -163,10 +167,6 @@
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_part_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\all user control\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\database\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E986693-0B92-4779-995A-5CD451716F77}|chuongtrinhquanlygarage\\chuongtrinhquanlygarage.csproj|solutionrelative:chuongtrinhquanlygarage\\database\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -230,76 +230,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UC_Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
-              "ViewState": "AgIAALwBAAAAAAAAAAAAANoBAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T15:57:06.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UC_Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T04:31:34.339Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UC_Part.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Title": "UC_EditEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs [Design]",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T01:41:49.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UC_Pay.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T01:50:40.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\App.config",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\App.config",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\App.config",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-06T02:43:02.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UC_EditCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:39:17.246Z"
+              "WhenOpened": "2024-12-18T17:12:19.979Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -315,29 +254,156 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Vehicle.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:57:06.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:31:34.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Part.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAawJwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:41:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Program.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Program.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:03:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_AddCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAawN4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:54:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:14:50.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_Pay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs [Design]",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:50:40.324Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UC_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAASwJwBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:42:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UC_Part.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Part.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.cs [Design]",
               "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Part.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:15:00.836Z"
+              "WhenOpened": "2024-12-21T16:15:00.836Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\App.config",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\App.config",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\App.config",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-06T02:43:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_EditCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
+              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:39:17.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UC_AddCustomer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs [Design]",
               "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:16:29.43Z"
+              "WhenOpened": "2024-12-21T14:16:29.43Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UC_EditDetailOrder.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditDetailOrder.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditDetailOrder.cs",
@@ -349,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "UC_EditDetailOrder.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditDetailOrder.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditDetailOrder.cs",
@@ -360,29 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UC_EditEmployee.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T17:12:19.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UC_Employee.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:14:50.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Database\\Repository\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Database\\Repository\\CustomerRepository.cs",
@@ -394,19 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UC_AddCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_AddCustomer.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCEAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T01:54:07.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Database\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Database\\DatabaseContext.cs",
@@ -418,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "UC_EditCustomer.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_EditCustomer.cs",
@@ -429,19 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Program.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Program.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:03:53.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Dashboard.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Dashboard.cs",
@@ -452,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Dashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Dashboard.Designer.cs",
@@ -464,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Properties\\Resources.Designer.cs",
@@ -476,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Dashboard.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Dashboard.cs",
@@ -488,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Database\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Database\\Repository\\UserRepository.cs",
@@ -500,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UserSession.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\UserSession.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\UserSession.cs",
@@ -512,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\packages.config",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\packages.config",
@@ -524,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "UC_Report.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Report.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Report.cs",
@@ -536,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "UC_Pay.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Pay.cs",
@@ -548,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UC_Report.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Report.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Report.cs",
@@ -559,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "UC_Invoice.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Invoice.cs",
@@ -570,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "UC_Invoice1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Invoice1.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Invoice1.cs",
@@ -581,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Database\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Database\\Repository\\OrderRepository.cs",
@@ -593,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Motor.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\Motor.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\Motor.cs",
@@ -605,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\Invoice.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\Invoice.cs",
@@ -617,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\Order.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\Order.cs",
@@ -629,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\Employee.cs",
@@ -641,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "DetailOrder.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\DetailOrder.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\DetailOrder.cs",
@@ -653,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\Models\\Customer.cs",
@@ -665,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "UC_Part_Add.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part_Add.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Part_Add.cs",
@@ -677,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "UC_Part.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part.Designer.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Part.Designer.cs",
@@ -685,11 +705,12 @@
               "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Part.Designer.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAqwIoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:02:23.879Z"
+              "WhenOpened": "2025-01-06T12:02:23.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "UC_Part_Add.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Part_Add.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Part_Add.cs",
@@ -697,18 +718,6 @@
               "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Part_Add.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T02:35:18.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UC_Employee.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
-              "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_Employee.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAswMAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T14:42:34.517Z"
             },
             {
               "$type": "Document",
@@ -803,7 +812,8 @@
               "RelativeToolTip": "chuongtrinhquanlygarage\\All User Control\\UC_EditEmployee.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAwwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T02:05:54.664Z"
+              "WhenOpened": "2024-12-22T02:05:54.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

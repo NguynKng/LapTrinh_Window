@@ -162,7 +162,12 @@ namespace chuongtrinhquanlygarage.All_User_Control
                 {
                     DataGridViewRow selectedRow = dgvPart.SelectedRows[0];
 
-                    
+                    if (selectedRow.Cells["partIDCol"].Value == null || string.IsNullOrEmpty(selectedRow.Cells["partIDCol"].Value.ToString()))
+                    {
+                        MessageBox.Show("Dòng được chọn không có dữ liệu để xoá.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
+                    }
+
                     string partID = selectedRow.Cells["partIDCol"].Value.ToString();
 
                     DialogResult result = MessageBox.Show(

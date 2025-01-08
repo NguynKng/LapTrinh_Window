@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="chuongtrinhquanlygarage.exe" size="728032">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="chuongtrinhquanlygarage.exe" size="728544">
       <assemblyIdentity name="chuongtrinhquanlygarage" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/Ju0qrdU3m5HRL5TLy46hg/Jp3ekQk6qpU9v3pZ6jsg=</dsig:DigestValue>
+        <dsig:DigestValue>0QJXJt77IADkc7u4XBWMHRrdcK7L3HJNQNzaHeTNyag=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
