@@ -84,7 +84,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.delUserBtn = new Guna.UI2.WinForms.Guna2Button();
-            this.editUserBtn = new Guna.UI2.WinForms.Guna2Button();
             this.dgvUser = new Guna.UI2.WinForms.Guna2DataGridView();
             this.userIDCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.employIDCol = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -820,7 +819,6 @@
             // tabPage3
             // 
             this.tabPage3.Controls.Add(this.delUserBtn);
-            this.tabPage3.Controls.Add(this.editUserBtn);
             this.tabPage3.Controls.Add(this.dgvUser);
             this.tabPage3.Controls.Add(this.label10);
             this.tabPage3.Location = new System.Drawing.Point(4, 32);
@@ -856,29 +854,6 @@
             this.delUserBtn.TabIndex = 8;
             this.delUserBtn.Text = "Xóa";
             this.delUserBtn.Click += new System.EventHandler(this.delUserBtn_Click);
-            // 
-            // editUserBtn
-            // 
-            this.editUserBtn.BorderRadius = 18;
-            this.editUserBtn.BorderStyle = System.Drawing.Drawing2D.DashStyle.DashDot;
-            this.editUserBtn.BorderThickness = 1;
-            this.editUserBtn.ButtonMode = Guna.UI2.WinForms.Enums.ButtonMode.ToogleButton;
-            this.editUserBtn.CheckedState.FillColor = System.Drawing.Color.Red;
-            this.editUserBtn.CheckedState.ForeColor = System.Drawing.Color.White;
-            this.editUserBtn.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.editUserBtn.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.editUserBtn.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.editUserBtn.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.editUserBtn.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.editUserBtn.FillColor = System.Drawing.Color.White;
-            this.editUserBtn.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.editUserBtn.ForeColor = System.Drawing.Color.Black;
-            this.editUserBtn.Location = new System.Drawing.Point(686, 598);
-            this.editUserBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.editUserBtn.Name = "editUserBtn";
-            this.editUserBtn.Size = new System.Drawing.Size(237, 66);
-            this.editUserBtn.TabIndex = 7;
-            this.editUserBtn.Text = "Sửa";
             // 
             // dgvUser
             // 
@@ -1073,7 +1048,6 @@
         private Guna.UI2.WinForms.Guna2Button delEmpBtn;
         private Guna.UI2.WinForms.Guna2Button editEmpBtn;
         private Guna.UI2.WinForms.Guna2Button delUserBtn;
-        private Guna.UI2.WinForms.Guna2Button editUserBtn;
         private Guna.UI2.WinForms.Guna2DataGridView dgvUser;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.DataGridViewTextBoxColumn empIDCol;

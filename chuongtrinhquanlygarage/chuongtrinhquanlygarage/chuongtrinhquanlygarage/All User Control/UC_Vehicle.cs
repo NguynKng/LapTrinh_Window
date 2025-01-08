@@ -489,5 +489,10 @@ namespace chuongtrinhquanlygarage.All_User_Control
             }
 
         }
+
+        private async void refreshPartBtn_Click(object sender, EventArgs e)
+        {
+             await LoadParts();
+        }
     }
 }

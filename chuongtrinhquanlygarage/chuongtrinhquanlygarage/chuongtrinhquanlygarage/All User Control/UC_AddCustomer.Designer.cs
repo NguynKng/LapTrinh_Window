@@ -134,7 +134,7 @@
             this.dgvCustomer.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.dgvCustomer.RowTemplate.Height = 24;
             this.dgvCustomer.Size = new System.Drawing.Size(1063, 617);
-            this.dgvCustomer.TabIndex = 1;
+            this.dgvCustomer.TabIndex = 100;
             this.dgvCustomer.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.dgvCustomer.ThemeStyle.AlternatingRowsStyle.Font = null;
             this.dgvCustomer.ThemeStyle.AlternatingRowsStyle.ForeColor = System.Drawing.Color.Empty;
